@@ -1,0 +1,1 @@
+$X=\begin{bmatrix}|&&|\\x_1&\dot&x_n$
